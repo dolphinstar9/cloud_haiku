@@ -1,0 +1,9 @@
+layout: haiku
+title: Star Haiku
+author: astronomy
+test:false
+
+
+as brillant as the sun
+such a star in the sky
+please don't wither away
